@@ -1,0 +1,16 @@
+{
+    "StationConfig": {
+        "centerURL_HTTP": "http://61.66.104.98:8890",
+        "centerURL_WS": "ws://61.66.104.98:8890",
+        "engineURL_WS": "ws://61.66.104.98:8880",
+        "allowGuest": true,
+        "stage": "test_station",
+        "version": "1.0.2",
+        "allowSession": false,
+        "station": "alpha",
+        "app_mode": "development",
+        "static_assets_domain": "",
+        "demo_pro_value": 0,
+        "demo_feature": true
+    }
+}
